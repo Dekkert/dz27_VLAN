@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-gatling-rsync",["= 1.0.1"]],["net-ssh",[">= 2.6.5"]],["net-scp",[">= 1.1"]],["log4r",["~> 1.1"]],["vagrant-scp",["= 0.5.9"]]],"checksum":"501b5ca4338e733657d80c1034e6a12cfe1daf5a9a3ec30b64902624b02b227a","vagrant_version":"2.2.16"}
